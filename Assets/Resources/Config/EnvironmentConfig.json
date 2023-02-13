@@ -1,0 +1,50 @@
+{
+	"environment": "dev",
+	"dev": {
+		"ad_app_id_aos": "ca-app-pub-3940256099942544~3347511713",
+		"ad_banner_id_aos": "ca-app-pub-3940256099942544/6300978111",
+		"ad_inter_id_aos": "ca-app-pub-3940256099942544/1033173712",
+		"ad_reward_id_aos": "ca-app-pub-3940256099942544/5224354917",
+		"ad_inter_reward_id_aos": "ca-app-pub-3940256099942544/5354046379",
+		"ad_banner_id_ios": "ca-app-pub-3940256099942544/2934735716",
+		"ad_inter_id_ios": "ca-app-pub-3940256099942544/4411468910",
+		"ad_reward_id_ios": "ca-app-pub-3940256099942544/1712485313",
+		"ad_inter_reward_id_ios": "ca-app-pub-3940256099942544/6978759866",
+		"link_game_store": "market://details?id=com.theparallel.scaryzombie",
+		"ad_banner_id_applovin_aos": "9b1e3aa478b3d9a8",
+		"ad_inter_id_applovin_aos": "dbcb574f888e1af3",
+		"ad_reward_id_applovin_aos": "3f9b02ba5465b74f"
+	},
+	"test": {
+		"ad_app_id_aos": "ca-app-pub-3940256099942544~3347511713",
+		"ad_banner_id_aos": "ca-app-pub-3940256099942544/6300978111",
+		"ad_inter_id_aos": "ca-app-pub-3940256099942544/1033173712",
+		"ad_reward_id_aos": "ca-app-pub-3940256099942544/5224354917",
+		"ad_inter_reward_id_aos": "ca-app-pub-3940256099942544/5354046379",
+		"ad_banner_id_ios": "ca-app-pub-3940256099942544/2934735716",
+		"ad_inter_id_ios": "ca-app-pub-3940256099942544/4411468910",
+		"ad_reward_id_ios": "ca-app-pub-3940256099942544/1712485313",
+		"ad_inter_reward_id_ios": "ca-app-pub-3940256099942544/6978759866",
+		"link_game_store": "market://details?id=com.theparallel.scaryzombie",
+		"ad_banner_id_applovin_aos": "9b1e3aa478b3d9a8",
+		"ad_inter_id_applovin_aos": "dbcb574f888e1af3",
+		"ad_reward_id_applovin_aos": "3f9b02ba5465b74f"
+	},
+	"live": {
+		"ad_app_id_aos": "ca-app-pub-3592666561057448~3586269098",
+		"ad_banner_id_aos": "ca-app-pub-9477777039354702/7371208697",
+		"ad_inter_id_aos": "ca-app-pub-9477777039354702/5391665198",
+		"ad_reward_id_aos": "ca-app-pub-9477777039354702/4325995538",
+		"ad_inter_reward_id_aos": "ca-app-pub-3940256099942544/5354046379",
+		"ad_open_app_id_aos": "ca-app-pub-9477777039354702/8616594333",
+		"ad_banner_id_ios": "ca-app-pub-3940256099942544/2934735716",
+		"ad_inter_id_ios": "ca-app-pub-3940256099942544/4411468910",
+		"ad_reward_id_ios": "ca-app-pub-3940256099942544/1712485313",
+		"ad_inter_reward_id_ios": "ca-app-pub-3940256099942544/6978759866",
+		"link_game_store": "market://details?id=com.theparallel.scaryzombie",
+		"ad_banner_id_applovin_aos": "9b1e3aa478b3d9a8",
+		"ad_inter_id_applovin_aos": "dbcb574f888e1af3",
+		"ad_reward_id_applovin_aos": "3f9b02ba5465b74f",
+		"appsflyer_key": "kuLmDZ4STw8CUm4TwsYsT4"
+	}
+}

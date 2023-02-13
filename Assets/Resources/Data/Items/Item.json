@@ -1,0 +1,127 @@
+{
+    "0": {
+        "id": 0,
+        "name": "Gold",
+        "description": "",
+        "icon": "Items/gold"
+    },
+    "10": {
+        "id": 10,
+        "name": "Remove Ads",
+        "description": "Remove banner && interstitial ads",
+        "icon": "Items/remove_ads",
+        "type": "currency",
+        "effect_values": [
+            {
+                "id": "remove_ads",
+                "value": -1
+            }
+        ]
+    },
+
+
+    "100": {
+        "id": 100,
+        "name": "Male ",
+        "description": "Male ",
+        "icon": "Items/Male",
+        "type": "character",
+        "effect_values": null,
+        "prefab": "Male"
+    },
+    "101": {
+        "id": 101,
+        "name": "Male 1",
+        "description": "Male 1",
+        "icon": "Items/Male_1",
+        "type": "character",
+        "effect_values": null,
+        "prefab": "Male_1"
+    },
+    "102": {
+        "id": 102,
+        "name": "Female 1",
+        "description": "Female 1",
+        "icon": "Items/Female_1",
+        "type": "character",
+        "effect_values": null,
+        "prefab": "Female_1"
+    },
+    "103": {
+        "id": 103,
+        "name": "Male 2",
+        "description": "Male 2",
+        "icon": "Items/Male_2",
+        "type": "character",
+        "effect_values": null,
+        "prefab": "Male_2"
+    },
+    "104": {
+        "id": 104,
+        "name": "Male 3",
+        "description": "Male 3",
+        "icon": "Items/Male_3",
+        "type": "character",
+        "effect_values": null,
+        "prefab": "Male_3"
+    },
+    "105": {
+        "id": 105,
+        "name": "Male 4",
+        "description": "Male 4",
+        "icon": "Items/Male_4",
+        "type": "character",
+        "effect_values": null,
+        "prefab": "Male_4"
+    },
+    "106": {
+        "id": 106,
+        "name": "Male 5",
+        "description": "Male 5",
+        "icon": "Items/Male_5",
+        "type": "character",
+        "effect_values": null,
+        "prefab": "Male_5"
+    },
+
+
+    "1000": {
+        "id": 1000,
+        "name": "Baseball Bat",
+        "description": "Baseball Bat",
+        "icon": "Items/baseball_bat",
+        "type": "weapon",
+        "effect_values": [
+            {
+                "id": "freeze",
+                "value": 5
+            }
+        ]
+    },
+    "1001": {
+        "id": 1001,
+        "name": "Lollipop",
+        "description": "Lollipop",
+        "icon": "Items/Lollipop",
+        "type": "weapon",
+        "effect_values": [
+            {
+                "id": "freeze",
+                "value": 5
+            }
+        ]
+    },
+    "1002": {
+        "id": 1002,
+        "name": "Pan",
+        "description": "Pan",
+        "icon": "Items/pan",
+        "type": "weapon",
+        "effect_values": [
+            {
+                "id": "freeze",
+                "value": 5
+            }
+        ]
+    }
+}

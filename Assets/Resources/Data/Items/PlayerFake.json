@@ -1,0 +1,65 @@
+{
+    "100": {
+        "id": 100,
+        "name": "Male ",
+        "description": "Male ",
+        "icon": "Items/Male",
+        "type": "character",
+        "effect_values": null,
+        "prefab": "PlayerFake/Male"
+    },
+    "101": {
+        "id": 101,
+        "name": "Male 1",
+        "description": "Male 1",
+        "icon": "Items/Male_1",
+        "type": "character",
+        "effect_values": null,
+        "prefab": "PlayerFake/Male_1"
+    },
+    "102": {
+        "id": 102,
+        "name": "Female 1",
+        "description": "Female 1",
+        "icon": "Items/Female_1",
+        "type": "character",
+        "effect_values": null,
+        "prefab": "PlayerFake/Female_1"
+    },
+    "103": {
+        "id": 103,
+        "name": "Male 2",
+        "description": "Male 2",
+        "icon": "Items/Male_2",
+        "type": "character",
+        "effect_values": null,
+        "prefab": "PlayerFake/Male_2"
+    },
+    "104": {
+        "id": 104,
+        "name": "Male 3",
+        "description": "Male 3",
+        "icon": "Items/Male_3",
+        "type": "character",
+        "effect_values": null,
+        "prefab": "PlayerFake/Male_3"
+    },
+    "105": {
+        "id": 105,
+        "name": "Male 4",
+        "description": "Male 4",
+        "icon": "Items/Male_4",
+        "type": "character",
+        "effect_values": null,
+        "prefab": "PlayerFake/Male_4"
+    },
+    "106": {
+        "id": 106,
+        "name": "Male 5",
+        "description": "Male 5",
+        "icon": "Items/Male_5",
+        "type": "character",
+        "effect_values": null,
+        "prefab": "PlayerFake/Male_5"
+    }
+}

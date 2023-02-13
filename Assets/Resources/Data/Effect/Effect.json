@@ -1,0 +1,10 @@
+{
+    "remove_ads": {
+        "type": "",
+        "description": "Remove banner && interstitial ads"
+    },
+    "freeze": {
+        "type": "FreezeEffect",
+        "description": "Freeze all enemies in {0} seconds"
+    }
+}

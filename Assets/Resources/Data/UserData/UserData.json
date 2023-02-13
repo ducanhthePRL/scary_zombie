@@ -1,0 +1,15 @@
+{
+	"info":{
+		"user_name":"Đức",
+		"user_id":"abcd"
+	},
+	"currency":{
+		"money":999,
+		"gold":99
+	},
+	"data":{
+		"inventory_pot":{
+			
+		}
+	}
+}

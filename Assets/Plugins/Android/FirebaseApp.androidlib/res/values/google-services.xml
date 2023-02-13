@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:keep="@string/gcm_defaultSenderId,@string/google_storage_bucket,@string/project_id,@string/google_api_key,@string/google_crash_reporting_api_key,@string/google_app_id,@string/default_web_client_id">
+  <string name="gcm_defaultSenderId" translatable="false">1016976057087</string>
+  <string name="google_storage_bucket" translatable="false">zombie-slide.appspot.com</string>
+  <string name="project_id" translatable="false">zombie-slide</string>
+  <string name="google_api_key" translatable="false">AIzaSyBMq9janyk_aRRujhZM5bIy1D0Cbh-iNyA</string>
+  <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBMq9janyk_aRRujhZM5bIy1D0Cbh-iNyA</string>
+  <string name="google_app_id" translatable="false">1:1016976057087:android:7d2d8790b6dce82c8462ca</string>
+  <string name="default_web_client_id" translatable="false">1016976057087-9n7pifv2k4kuail6841qph3to48m9tig.apps.googleusercontent.com</string>
+</resources>

@@ -1,0 +1,79 @@
+[
+    {
+        "id": 10,
+        "price_gold": 0,
+        "price_money": 2.99,
+        "product_id": "iap.removeads",
+        "product_name": "Remove Ads",
+        "iap_type": "nonconsumable"
+    },
+    {
+        "id": 101,
+        "price_gold": 7000,
+        "price_money": 0,
+        "product_id": "",
+        "product_name": "Male 1",
+        "iap_type": "nonconsumable"
+    },
+    {
+        "id": 102,
+        "price_gold": 7000,
+        "price_money": 0,
+        "product_id": "",
+        "product_name": "Female 1",
+        "iap_type": "nonconsumable"
+    },
+    {
+        "id": 103,
+        "price_gold": 7000,
+        "price_money": 0,
+        "product_id": "",
+        "product_name": "Male 2",
+        "iap_type": "nonconsumable"
+    },
+
+    {
+        "id": 104,
+        "price_gold": 7000,
+        "price_money": 0,
+        "product_id": "",
+        "product_name": "Male 3",
+        "iap_type": "nonconsumable"
+    },
+    {
+        "id": 105,
+        "price_gold": 7000,
+        "price_money": 0,
+        "product_id": "",
+        "product_name": "Male 4",
+        "iap_type": "nonconsumable"
+    },
+    {
+        "id": 106,
+        "price_gold": 10000,
+        "price_money": 0,
+        "product_id": "",
+        "product_name": "Male 5",
+        "iap_type": "nonconsumable"
+    },
+
+
+
+
+    {
+        "id": 1001,
+        "price_gold": 15000,
+        "price_money": 0,
+        "product_id": "",
+        "product_name": "Lollipop",
+        "iap_type": "nonconsumable"
+    },
+    {
+        "id": 1002,
+        "price_gold": 15000,
+        "price_money": 0,
+        "product_id": "",
+        "product_name": "Pan",
+        "iap_type": "nonconsumable"
+    }
+]

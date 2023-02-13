@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7cf74a903faefe9498c18a5396b57aeb, type: 3}
+  m_Name: TV-Mode
+  m_EditorClassIdentifier: 
+  VignetteEnabled: 1
+  VignettePower: 0
+  VignetteCenter: {x: 0, y: 0}
+  BlurEnabled: 1
+  BlurRadius: 0
+  BlurTextureResolutionDivider: 8.18
+  BlurIterations: 1
+  ColorGradingEnabled: 1
+  ToneMappingEnabled: 1
+  Gamma: 0.9
+  Exposure: 3.54
+  LUTEnabled: 1
+  LUT: {fileID: 2800000, guid: ad95a44fae415447087e436f4af620bc, type: 3}
+  LUTIntensity: 0.05
+  ColorsAmount: 32
+  ChromaticAbberationEnabled: 1
+  ColorsShiftAmount: 0
+  FishEyeEffectFactor: 0.49
+  FishEyeEffectStart: 0
+  FishEyeEffectEnd: 0.6
+  BloomEnabled: 1
+  BloomBlurRadius: 0.00103
+  BloomBlurTextureResolutionDivider: 3.55
+  BloomBlurIterations: 1
+  FilterTextureResolutionDivider: 1.54
+  BloomIntensity: 0.51
+  BloomThreshold: 0
+  BloomSoftThreshold: 1.2
+  BloomDebugView: 0
